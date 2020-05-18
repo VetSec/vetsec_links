@@ -17,4 +17,5 @@ D6 | Roll a 6-sided die | - | d6
 VeteranSec Website | VeteranSec Member Blog | [https://veteransec.com/](https://veteransec.com/) | !blog
 LinkedIn | VeteranSec LinkedIn Page | [https://linkedin.com/company/veteransec](https://linkedin.com/company/veteransec) | !linkedin
 Twitter | VeteranSec Twitter Account | [https://twitter.com/VeteranSec](https://twitter.com/VeteranSec)  | !twitter
+Mental Health | TA list of Mental Health resources/links/phone numbers | [https://mentalhealth.veteransec.org](https://mentalhealth.veteransec.org) | !mentalhealth
 Resources | This table of resources | [https://github.com/VetSec/vetsec_links/tree/master](https://github.com/VetSec/vetsec_links/tree/master) | !resources
